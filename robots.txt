@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://humanrights-gharbia.github.io/HumanRights/sitemap.xml
